@@ -46,19 +46,19 @@ npm i express firebase shortid valid-url nodemon
 
  Navigate to [Firebase Official Website](https://console.firebase.google.com) and create a project.
 
-![firebase_Homepage](assests\images\firebase_Homepage.jpg)
+![firebase_Homepage](https://github.com/divofred/Ata/blob/master/assests/images/firebase_Homepage.jpg)
 
 Choose a name for the project:
 
-![project_name](assests\images\project_name.jpg)
+![project_name](https://github.com/divofred/Ata/blob/master/assests/images/project_name.jpg)
 
 Google Analytics would not be necessary for our project, toggle it off and create a project.
 
-![Google Analytics](C:\Users\user\Downloads\Important\Short_url\assests\images\Google Analytics.jpg)
+![Google Analytics](https://github.com/divofred/Ata/blob/master/assests/images/Google%20Analytics.jpg)
 
 After successfully creating a new project, you will be brought to the screen below. When you click  on continue, you will be redirected to your dashboard.
 
-![click_continue](C:\Users\user\Downloads\Important\Short_url\assests\images\click_continue.jpg)
+![click_continue](https://github.com/divofred/Ata/blob/master/assests/images/click_continue.jpg)
 
 #### Getting our Projects Details
 
@@ -68,7 +68,7 @@ On the sidebar, click on `Authentication` and `Get Started`. This auto-generates
 
 Click on the `settings icon` on the sidebar and click on `Project settings` to get the projects details.
 
-![Projects_details](assests\images\Projects_details.jpg)
+![Projects_details](https://github.com/divofred/Ata/blob/master/assests/images/Projects_details.jpg)
 
 ### Setting up the server
 
@@ -252,11 +252,11 @@ You will need to [create an account](https://signup.heroku.com/) with Heroku or[
 
 After Signing in, you will be redirected to your [dashboard](https://dashboard.heroku.com/apps). Click on `New` at the top-right corner of the page and click [`create new app`](https://dashboard.heroku.com/new-app?org=personal-apps). 
 
-![Heroku1](assests\images\Heroku1.jpg)
+![Heroku1](https://github.com/divofred/Ata/blob/master/assests/images/Heroku1.jpg)
 
 Choose a unique name for the application and create the app:
 
-![Heroku2](C:\Users\user\Downloads\Important\Short_url\assests\images\Heroku2.jpg)
+![Heroku2](https://github.com/divofred/Ata/blob/master/assests/images/Heroku2.jpg)
 
 Download and Install [Heroku's CLI](https://devcenter.heroku.com/articles/heroku-cli).
 
@@ -302,7 +302,7 @@ const baseURL = "https://divofred-short-url.herokuapp.com";
 
 You can use Postman to test our application:
 
-![postman](assests\images\postman.jpg)
+![postman](https://github.com/divofred/Ata/blob/master/assests/images/postman.jpg)
 
 ## Conclusion
 
